@@ -1,6 +1,6 @@
 # My HTML and CSS Projects
 
-Welcome to my repository! This repo contains a collection of my projects developed using HTML and CSS. Each project showcases different techniques and concepts, from basic layouts to more advanced styling and responsive design. Below you'll find an overview of the projects included in this repository.
+Welcome to my repository! This repo contains a collection of my projects developed using HTML and CSS. Each project showcases different techniques and concepts, from basic layouts to more advanced styling and responsive design. Below you'll find an overview of the projects included in this repository....
 
 ## Table of Contents
 
