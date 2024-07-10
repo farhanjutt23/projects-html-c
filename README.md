@@ -102,7 +102,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or inquiries, please contact me at:
 
-- **Email**: [your.email@example.com](farhanrasoolxx@gmail.com)
+- **Email**: [farhanrasoolxx@gmail.com](farhanrasoolxx@gmail.com)
 - **GitHub**: [farhanjutt23](https://github.com/farhanjutt23/)
 
 Thank you for visiting my repository! Happy coding!
