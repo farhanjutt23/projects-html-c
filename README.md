@@ -2,7 +2,7 @@
 
 Welcome to my repository! This repo contains a collection of my projects developed using HTML and CSS. Each project showcases different techniques and concepts, from basic layouts to more advanced styling and responsive design. Below you'll find an overview of the projects included in this repository....
 
-## Table of Contents
+## Table of Contents..
 
 - [Projects](#projects)
   - [Project 1: Basic Webpage](#project-1-basic-webpage)
